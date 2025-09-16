@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+Pillow
+numpy
+requests
+google-cloud-vision
